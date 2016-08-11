@@ -1,0 +1,14 @@
+layout_spectrum: 0.29082744382321835
+typography_spectrum: 0.6421149030793458
+color:
+  brandStrength: 0.23500258196145296
+  lightness: 0.2376583789009601
+  saturation: 0.9958455651067197
+  rhythmicContrast: 0.9587195818312466
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: MurderRoom
