@@ -4,8 +4,15 @@
         <description><![CDATA[Murder Room]]></description>
         <link>https://thegrid.ai/murderroom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 00:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 00:35:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/murderroom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zombie huntin']]></title>
+            <description><![CDATA[<article><h1>Zombie huntin'</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17d31e2e-04a3-454a-8c5c-827e7f4abb4a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/17d31e2e-04a3-454a-8c5c-827e7f4abb4a.jpg</link>
+            <guid isPermaLink="false">bc423374-ff16-402e-978a-363e88bd7c82</guid>
+            <pubDate>Fri, 12 Aug 2016 00:35:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[23 Days | The Strain Season 3 Promo | FX]]></title>
             <description><![CDATA[<article><h1>23 Days | The Strain Season 3 Promo | FX</h1><p>It's been 23 days since the nightmare began. Revenge is coming. The Strain returns August 28th on FX. FOLLOW THE STRAIN http://www2.fxnetworks.com/shows/the-strain https://www.facebook.com/TheStrainFX https://twitter.com/TheStrainFX ABOUT THE STRAIN The transformation has begun. It can no longer be denied - New York City is rapidly falling to an evil epidemic, and no one is coming to its rescue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a17c17b5b42e6c10c9ad62e56bde4ecf57cae783.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/murderroom/bloody-day/index.html</link>
             <guid isPermaLink="false">abc19a47-0da2-4f93-8b00-a8a5cfa884c4</guid>
             <pubDate>Fri, 12 Aug 2016 00:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zombie huntin']]></title>
-            <description><![CDATA[<article><h1>Zombie huntin'</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17d31e2e-04a3-454a-8c5c-827e7f4abb4a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/murderroom/zombie-huntin/index.html</link>
-            <guid isPermaLink="false">bc423374-ff16-402e-978a-363e88bd7c82</guid>
-            <pubDate>Fri, 12 Aug 2016 00:27:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
