@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-12T00:34:19.685Z'
+datePublished: '2016-08-12T01:37:57.918Z'
 sourcePath: _posts/2016-06-10-john-carpenters-the-thing-trailer-1982-hq.md
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/p35JDJLa9ec'
@@ -21,8 +21,8 @@ author:
     url: 'https://www.youtube.com/user/ThrillerChillerFilms'
     avatar: {}
 via: {}
-dateModified: '2016-08-12T00:34:19.320Z'
-title: John Carpenter's The Thing trailer (1982) HQ
+dateModified: '2016-08-12T01:37:57.481Z'
+title: John Carpenter's The Thing
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=p35JDJLa9ec&feature=applinks'
     type: ios
