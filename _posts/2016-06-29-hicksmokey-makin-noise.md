@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-12T01:33:13.979Z'
+datePublished: '2016-08-12T01:46:07.179Z'
 sourcePath: _posts/2016-06-29-hicksmokey-makin-noise.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-12T01:33:13.577Z'
+dateModified: '2016-08-12T01:46:06.794Z'
 title: Hicksmokey makin’ noise
 publisher: {}
 description: >-
