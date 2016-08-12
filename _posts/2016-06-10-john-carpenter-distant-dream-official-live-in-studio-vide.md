@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Sacred Bones Records
-    url: 'https://www.youtube.com/user/SacredBonesRecords'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+datePublished: '2016-08-12T00:33:31.741Z'
+sourcePath: _posts/2016-06-10-john-carpenter-distant-dream-official-live-in-studio-vide.md
+inFeed: true
+isBasedOnUrl: 'https://youtu.be/0TRj6Dt2lrA'
 keywords:
   - carpenter
   - duration
@@ -20,15 +14,14 @@ keywords:
   - camera
   - instagram
   - www
-description: >-
-  'Distant Dream' official live video, directed by John Carpenter. "Lost Themes
-  II" out now. TOUR DATES & TICKETS : http://bit.ly/1UF5Gwh Pre-order & download
-  "Distant Dream" instantly: http://smarturl.it/LostThemesIIiTunes BAND: John
-  Carpenter: Synthesizer Cody Carpenter: Synthesizer Daniel Davies: Guitar John
-  Spiker: Bass John Konesky: Guitar Scott Seiver: Drums Director: John Carpenter
-  Executive Producers: John Carpenter/Cody Carpenter/Daniel Davies Production
-  Company: Brick & Mortar Productions, Inc.
-inLanguage: en
+related: []
+author:
+  - name: Sacred Bones Records
+    url: 'https://www.youtube.com/user/SacredBonesRecords'
+    avatar: {}
+via: {}
+dateModified: '2016-08-12T00:33:31.429Z'
+title: John Carpenter "Distant Dream" (Official Live In Studio Video)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=0TRj6Dt2lrA&feature=applinks'
     type: ios
@@ -66,18 +59,23 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/0TRj6Dt2lrA'
-title: John Carpenter "Distant Dream" (Official Live In Studio Video)
-datePublished: '2016-08-12T00:27:45.752Z'
-dateModified: '2016-08-12T00:27:45.585Z'
-sourcePath: _posts/2016-06-10-john-carpenter-distant-dream-official-live-in-studio-vide.md
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+description: >-
+  'Distant Dream' official live video, directed by John Carpenter. "Lost Themes
+  II" out now. TOUR DATES & TICKETS : http://bit.ly/1UF5Gwh Pre-order & download
+  "Distant Dream" instantly: http://smarturl.it/LostThemesIIiTunes BAND: John
+  Carpenter: Synthesizer Cody Carpenter: Synthesizer Daniel Davies: Guitar John
+  Spiker: Bass John Konesky: Guitar Scott Seiver: Drums Director: John Carpenter
+  Executive Producers: John Carpenter/Cody Carpenter/Daniel Davies Production
+  Company: Brick & Mortar Productions, Inc.
+inLanguage: en
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0TRj6Dt2lrA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0TRj6Dt2lrA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0TRj6Dt2lrA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
