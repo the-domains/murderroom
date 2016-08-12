@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-12T00:27:55.851Z'
+datePublished: '2016-08-12T00:34:32.631Z'
 sourcePath: _posts/2016-08-11-rue-morgue.md
+inFeed: true
 isBasedOnUrl: 'http://www.rue-morgue.com/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-12T00:27:55.765Z'
+dateModified: '2016-08-12T00:34:32.270Z'
 title: Rue Morgue
 app_links: []
 publisher:
@@ -19,9 +20,6 @@ description: >-
   Rue Morgue is the world's premier Horror In Culture & Entertainment magazine
   since 1997
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
