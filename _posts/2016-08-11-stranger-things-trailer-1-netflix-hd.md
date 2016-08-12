@@ -1,14 +1,12 @@
 ---
-datePublished: '2016-08-12T00:34:03.015Z'
-sourcePath: _posts/2016-08-11-stranger-things-trailer-1-netflix-hd.md
-inFeed: true
+datePublished: '2016-08-12T01:24:16.108Z'
 isBasedOnUrl: 'https://youtu.be/XWxyRG_tckY'
 author:
   - name: Netflix US & Canada
     url: 'https://www.youtube.com/user/NewOnNetflix'
     avatar: {}
 via: {}
-dateModified: '2016-08-12T00:34:02.639Z'
+dateModified: '2016-08-11T06:59:54.570Z'
 title: 'Stranger Things - Trailer 1 - Netflix [HD]'
 publisher: {}
 description: >-
@@ -17,7 +15,11 @@ description: >-
   police search for answers, they are drawn into an extraordinary mystery
   involving top-secret government experiments, terrifying supernatural forces
   and one very strange little girl.
+sourcePath: _posts/2016-08-11-stranger-things-trailer-1-netflix-hd.md
 starred: false
+inFeed: true
+hasPage: false
+inNav: false
 _type: MediaObject
 
 ---
