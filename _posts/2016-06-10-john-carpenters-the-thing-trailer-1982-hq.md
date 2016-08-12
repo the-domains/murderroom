@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-08-12T00:27:51.083Z'
+datePublished: '2016-08-12T00:34:19.685Z'
 sourcePath: _posts/2016-06-10-john-carpenters-the-thing-trailer-1982-hq.md
 inFeed: true
-hasPage: true
+isBasedOnUrl: 'https://youtu.be/p35JDJLa9ec'
+hasPage: false
 keywords:
   - duration
   - carpenter
@@ -20,7 +21,7 @@ author:
     url: 'https://www.youtube.com/user/ThrillerChillerFilms'
     avatar: {}
 via: {}
-dateModified: '2016-08-12T00:27:50.996Z'
+dateModified: '2016-08-12T00:34:19.320Z'
 title: John Carpenter's The Thing trailer (1982) HQ
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=p35JDJLa9ec&feature=applinks'
@@ -70,7 +71,6 @@ description: >-
   Rapids premier film festival celebrating the genre movie.
 inLanguage: en
 starred: false
-url: john-carpenters-the-thing-trailer-1982-hq/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
