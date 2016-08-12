@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-12T00:33:42.893Z'
+datePublished: '2016-08-12T01:12:11.539Z'
 sourcePath: _posts/2016-06-29-hicksmokey-makin-noise.md
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/873da8fb-b4b5-409c-843f-cff3fe482127.jpg
 author: []
 via: {}
-dateModified: '2016-08-12T00:33:42.519Z'
+dateModified: '2016-08-12T01:12:10.855Z'
 title: Hicksmokey makin’ noise
 publisher: {}
 description: >-
