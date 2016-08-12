@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-12T00:35:12.385Z'
+datePublished: '2016-08-12T01:38:47.602Z'
 sourcePath: _posts/2016-06-10-23-days-or-the-strain-season-3-promo-or-fx.md
 inFeed: true
 hasPage: true
@@ -10,8 +10,8 @@ author:
     url: 'https://www.youtube.com/user/FXNetworks'
     avatar: {}
 via: {}
-dateModified: '2016-08-12T00:35:12.066Z'
-title: 23 Days | The Strain Season 3 Promo | FX
+dateModified: '2016-08-12T01:38:47.296Z'
+title: The Strain Season 3
 app_links: []
 publisher:
   url: 'https://www.youtube.com/'
