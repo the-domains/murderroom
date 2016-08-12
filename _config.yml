@@ -1,4 +1,4 @@
-typography_spectrum: 0.6421149030793458
+typography_spectrum: 0.9640174887608737
 color:
   brandStrength: 0.23500258196145296
   lightness: 0.2376583789009601
@@ -10,7 +10,7 @@ color:
     - '#888888'
     - '#303D43'
     - '#CC5746'
-layout_spectrum: 0.29082744382321835
+layout_spectrum: 0.5821985248476267
 name: MurderRoom
 title: Murder Room
 description: Take 2
