@@ -1,28 +1,19 @@
-layout_spectrum: 0.9191489
-description: We all go a little mad sometimes...
-name: MurderRoom
-title: Murder Room
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.04255319
+typography_spectrum: 0.05880351667292416
 color:
-  brandStrength: 0.235002581961453
+  brandStrength: 0.23500258196145296
+  lightness: 0.2376583789009601
   saturation: 0.9958455651067197
+  rhythmicContrast: 0.9587195818312466
   brandColors:
     - '#F2E5D5'
     - '#000000'
     - '#888888'
     - '#303D43'
     - '#CC5746'
-  lightness: 0.2376583789009601
-  rhythmicContrast: 0.9587195818312466
+layout_spectrum: 0.38436359260231256
+author:
+  name: Brian Wickliff
+  email: brian@hicksmokey.com
+name: Murder Room
+title: We all go a little mad sometimes...
+description: We all go a little mad sometimes...
